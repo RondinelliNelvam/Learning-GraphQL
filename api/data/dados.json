@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana Torre",
+      "active": true,
+      "email": "a@a.com",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "name": "Gabriel Costa",
+      "active": true,
+      "email": "g@g.com",
+      "role": 1
+    },
+    {
+      "id": 3,
+      "name": "Flavia Lins",
+      "active": true,
+      "email": "f@f.com",
+      "role": 1
+    },
+    {
+      "id": 4,
+      "name": "Carlos Marques",
+      "active": true,
+      "email": "c@c.com",
+      "role": 2
+    },
+    {
+      "id": 5,
+      "name": "Silvia Souza",
+      "active": true,
+      "email": "s@s.com",
+      "role": 2
+    },
+    {
+      "id": 6,
+      "name": "Marcia Silva",
+      "active": true,
+      "email": "m@m.com",
+      "role": 2
+    },
+    {
+      "id": 7,
+      "name": "Pedro Ivo",
+      "active": false,
+      "role": 1
+    },
+    {
+      "name": "Algo",
+      "active": true,
+      "role": 2,
+      "id": 8
+    },
+    {
+      "name": "Algo",
+      "active": true,
+      "role": 2,
+      "id": 9
+    },
+    {
+      "name": "Algo",
+      "active": true,
+      "role": 2,
+      "id": 10
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "ESTUDANTE"
+    },
+    {
+      "id": 2,
+      "type": "DOCENTE"
+    },
+    {
+      "id": 3,
+      "type": "COORDENACAO"
+    }
+  ]
+}
